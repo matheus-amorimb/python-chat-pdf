@@ -7,7 +7,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import FAISS
 
-from streamlit import Site 
+from Site import Site 
 
 def main():
     # Load environment variables from .env file
