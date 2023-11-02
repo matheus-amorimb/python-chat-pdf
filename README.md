@@ -4,7 +4,7 @@
 
 **LangChain** é uma biblioteca que simplifica o desenvolvimento de aplicativos utilizando large language models (LLMs) capazes de executar diversas tarefas de processamento de linguagem natural (PLN).
 
-Este projeto demonstra como usar a biblioteca **LangChain** para realizar a análise de documentos em formato PDF e fornecer respostas a perguntas feitas pelo usuário. É uma aplicação web que se integra com a biblioteca Streamlit para oferecer uma experiência amigável aos usuários, permitindo o envio de documentos PDF e perguntas
+Este projeto demonstra como usar a biblioteca **LangChain** para realizar a análise de documentos em formato PDF e fornecer respostas a perguntas feitas pelo usuário. É uma aplicação web que se integra com a biblioteca Streamlit para oferecer uma experiência amigável aos usuários, permitindo o envio de documentos PDF e perguntas.
 
 # Instalação
 
